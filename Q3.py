@@ -1,3 +1,5 @@
+'''Talvez vocẽ esteja se perguntando, ''ué, esse código não tem nada haver com a questão 3'' de fato não tem, perdão
+acabei me confundindo com as listas de exercícios, e ao invés de ter feito a questão 3 da lista semanal, fiz a questão 3 da revisão para a prova'''
 with open('questao3.txt', 'w'):
     pass
 for x in range(3):
